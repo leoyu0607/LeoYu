@@ -42,7 +42,5 @@
  
  LinkedIn : [leoyu0607](https://www.linkedin.com/in/leoyu0607/)
  
- Iinstagram : [leoyu0607](https://www.instagram.com/leoyu0607/)
- 
  Discord : `LeoYu#0544`
 
