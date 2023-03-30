@@ -21,15 +21,15 @@
   Language and Tools
 </h2>
 
-<p align = "center">
-  
-</p>
+- C++
+- Python
+- HTml
 
 
 <h2 align = "center">
   Contant Me
 </h2>
+ 信箱 : [a18600083@gmail.com](mailto:a18600083@gmail.com)
+ LinkedIn : [leoyu0607](https://www.linkedin.com/in/leoyu0607/)
+ Iinstagram : [leoyu0607](https://www.instagram.com/leoyu0607/)
 
-<h4 align = "center">
-  Click or Enail : [a18600083@gmail.com](mailto:a18600083@gmail.com)
-</h4>
