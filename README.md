@@ -1,2 +1,2 @@
 # Hi,I'm Leo Yu!
-my presonal reposity
+- Current major in **Computer Science**
