@@ -23,7 +23,7 @@
 
 - C++
 - Python
-- HTml
+- HTML
 - PHP
 - JSP
 - Arduino
