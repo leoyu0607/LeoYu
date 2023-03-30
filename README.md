@@ -17,10 +17,19 @@
 
 
 <!--語言工具/技能-->
-<h2>
+<h2 align = "center">
   Language and Tools
 </h2>
 
 <p align = "center">
   
 </p>
+
+
+<h2 align = "center">
+  Contant Me
+</h2>
+
+<h4 align = "center">
+  Click or Enail : [a18600083@gmail.com](mailto:a18600083@gmail.com)
+</h4>
