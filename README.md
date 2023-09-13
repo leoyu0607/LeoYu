@@ -29,9 +29,9 @@
 - C++
 - Python
 - HTML
-- PHP
-- JSP
-- Arduino
+<!--- PHP-->
+<!--- JSP-->
+<!--- Arduino-->
 
 
 <h2 align = "center">
