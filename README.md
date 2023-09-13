@@ -50,6 +50,6 @@
   Github stats
 </h2>
 
-[![leoyu0607's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoyu0607&count_private=true&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![leoyu0607's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoyu0607&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leoyu0607&layout=compact&hide=scss,vue&count_private=true)
