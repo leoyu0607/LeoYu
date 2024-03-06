@@ -29,6 +29,7 @@
 - C++
 - Python
 - HTML
+- MySQL
 <!--- PHP-->
 <!--- JSP-->
 <!--- Arduino-->
