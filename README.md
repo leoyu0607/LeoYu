@@ -1,10 +1,15 @@
 ### 關於我
 
-嗨！我是Leo。
+嗨！我是LeoYu。
 
-本名游博丞，台中人，目前就讀於國立台北教育大學資訊科學系。
-
+台中人，目前就讀於國立台北教育大學資訊科學系。
 大四，軟體開發、程式設計。
+喜歡FPS遊戲！
+
+Hi! I'm LeoYu.
+I'm from Taichung,Taiwan,now study computer science in National Taipei University of Eduvation.
+used to software develope.
+I love fps game,like Valorant.
 
 <!--經歷-->
 <h2 align = "center">
@@ -16,7 +21,7 @@
   * Group Link : [Facebook](https://www.facebook.com/DSCNTUE) / [Instagram](https://www.instagram.com/dsc_ntue/)
 * ***NTUE Information Research Club*** 16th Vice Director
   * Group Link : [Facebook](https://www.facebook.com/ntueIRC) / [Instagram](https://www.instagram.com/ntueirc/)
-* Ai3 人工智能股份有限公司 - 雲端實習生 (2024.03 ~ )
+* Ai3 人工智能股份有限公司 - 雲端實習生(Cloud Intern) (2024.03 ~ )
 
 <!--置頂專案-->
 
