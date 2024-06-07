@@ -52,7 +52,7 @@ I love fps game,like Valorant.
   Contant Me
 </h2>
 
- 網站 : [leoyu0607](<https://leoyu0607.github.io/leoyu.github.io/ target="_blank">)
+ 網站 : <a href="https://leoyu0607.github.io/leoyu.github.io/" target="_blank">leoyu0607</a>
 
  信箱 : [a18600083@gmail.com](mailto:a18600083@gmail.com)
  
