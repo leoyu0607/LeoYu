@@ -41,6 +41,8 @@ I love fps game,like Valorant.
 - Python
 - HTML
 - MySQL
+- Linux
+- Bash
 <!--- PHP-->
 <!--- JSP-->
 <!--- Arduino-->
