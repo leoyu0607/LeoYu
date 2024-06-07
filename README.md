@@ -27,7 +27,7 @@ I love fps game,like Valorant.
 * ***NTUE Information Research Club*** 16th Vice Director
   * Group Link : [Facebook](https://www.facebook.com/ntueIRC) / [Instagram](https://www.instagram.com/ntueirc/)
 * Ai3 人工智能股份有限公司 - 雲端實習生(Cloud Intern) (2024.03 ~ )
-
+  * Company Link : [Website](https://ai3.cloud/)
 <!--置頂專案-->
 
 
